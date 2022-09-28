@@ -12,7 +12,7 @@ I am a final year student pursuing a degree in Computer Engineering at the colle
 
 ![Shekinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shekinahmanyi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shekinahmanyi&theme=dark)](https://git.io/streak-stats)
 
 [![@shekinahmanyi's Holopin board](https://holopin.io/api/user/board?user=shekinahmanyi)](https://holopin.io/@shekinahmanyi)
 
