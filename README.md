@@ -10,7 +10,9 @@ I am a final year student pursuing a degree in Computer Engineering at the colle
 - ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 
 - 📫 How to reach me: @shekinahmanyi
 
-![Shekinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&show_icons=true&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shekinahmanyi&layout=compact)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&theme=highcontrast&show_icons=true&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shekinahmanyi&theme=dark)](https://git.io/streak-stats)
 
