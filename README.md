@@ -10,7 +10,9 @@
 - ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 
 - 📫 How to reach me: @shekinahmanyi,shekinahmanyi@gmail.com
 
-![Shekinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&count_private=true)
+![Shekinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shekinahmanyi)](https://git.io/streak-stats)
 
 [![@shekinahmanyi's Holopin board](https://holopin.io/api/user/board?user=shekinahmanyi)](https://holopin.io/@shekinahmanyi)
 
