@@ -1,9 +1,9 @@
 ### Hi there 👋
 
--I am called Shekinah Manyi,
--I am a final year student pursuing a degree in Computer Engineering at the college of technology university of Buea.
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Nodejs
+I am called Shekinah Manyi✨,
+I am a final year student pursuing a degree in Computer Engineering at the college of technology university of Buea.
+- 🔭 I’m currently working on an internship project.
+- 🌱 I’m currently learning Nodejs.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about HTML,CSS,JS,REACTJS
 - 😄 Pronouns: Her/She
