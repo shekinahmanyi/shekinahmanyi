@@ -5,10 +5,11 @@
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Nodejs
+- 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about HTML,CSS,JS,REACTJS
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 
-- 📫 How to reach me: @shekinahmanyi,shekinahmanyi@gmail.com
+- 📫 How to reach me: @shekinahmanyi
 
 ![Shekinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&show_icons=true&theme=radical)
 
