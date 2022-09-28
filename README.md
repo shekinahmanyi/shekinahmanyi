@@ -5,7 +5,7 @@ I am a final year student pursuing a degree in Computer Engineering at the colle
 - 🔭 I’m currently working on an internship project.
 - 🌱 I’m currently learning Nodejs.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 💬 Ask me about HTML,CSS,JS,REACTJS
+- 💬 Ask me about HTML,CSS,JS,PHP,REACTJS
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 
 - 📫 How to reach me: @shekinahmanyi
