@@ -10,7 +10,9 @@
 - ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 
 - 📫 How to reach me: @shekinahmanyi,shekinahmanyi@gmail.com
 
-[![Shekinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi)](https://github.com/shekinahmanyi/github-readme-stats)
+[![Shekinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi)](https://github.com/shekinahmanyi&count_private=true/github-readme-stats)
+
+[![@shekinahmanyi's Holopin board](https://holopin.io/api/user/board?user=shekinahmanyi)](https://holopin.io/@shekinahmanyi)
 
 <!--
 **shekinahmanyi/shekinahmanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
