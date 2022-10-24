@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 I am called Shekinah Manyi✨,
-I am a final year student pursuing a degree in Computer Engineering at the college of technology university of Buea
-- 🔭 I’m currently working on an internship project.
-- 🌱 I’m currently learning Nodejs.
+I am a passionate Front-End Developer and Tech enthusiast from Cameroon
+- 🔭 I’m currently working on some uncompleted projects.
+- 🌱 I’m currently learning Reactjs and nodejs to be better at what I do.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about HTML,CSS,JS,PHP,REACTJS
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 
-- 📫 How to reach me: @shekinahmanyi
+- 📫 How to reach me: shekinahmanyi@gmail.com
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shekinahmanyi&layout=compact)
 
