@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am called Shekinah Manyi✨,
+I am called Shekinah Manyi✨
 I am a passionate Front-End Developer and Tech enthusiast from Cameroon
 - 🔭 I’m currently working on some uncompleted projects.
 - 🌱 I’m currently learning Reactjs and nodejs to be better at what I do.
