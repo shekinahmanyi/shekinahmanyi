@@ -10,9 +10,8 @@ I am a passionate Front-End Developer and Tech enthusiast from Cameroon
 - ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 
 - 📫 How to reach me: shekinahmanyi@gmail.com.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shekinahmanyi&layout=compact)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&theme=highcontrast&show_icons=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi)](https://github.com/shekinahmanyi/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shekinahmanyi&theme=dark)](https://git.io/streak-stats)
 
