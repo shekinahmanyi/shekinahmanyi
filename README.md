@@ -8,7 +8,7 @@ I am a passionate Front-End Developer and Tech enthusiast from Cameroon
 - 💬 Ask me about HTML,CSS,JS,PHP,REACTJS
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 
-- 📫 How to reach me: shekinahmanyi@gmail.com
+- 📫 How to reach me: shekinahmanyi@gmail.com.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shekinahmanyi&layout=compact)
 
