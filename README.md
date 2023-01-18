@@ -1,13 +1,21 @@
 ### Hi there 👋
 
 I am called Shekinah Manyi✨
-I am a passionate Front-End Developer and Tech enthusiast from Cameroon
+
+I am a passionate Front-End Developer and Tech enthusiast from Cameroon.
+
 - 🔭 I’m currently working on my final year project.
+
 - 🌱 I’m currently learning Reactjs and nodejs to be better at what I do.
+
 - 👯 I’m looking to collaborate on Open Source Projects.
+
 - 💬 Ask me about HTML,CSS,JS,PHP,REACTJS
+
 - 😄 Pronouns: Her/She
+
 - ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 
+
 - 📫 How to reach me: shekinahmanyi@gmail.com.
 
 # Languages and Tools
