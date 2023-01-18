@@ -15,7 +15,7 @@ I am a passionate Front-End Developer and Tech enthusiast from Cameroon
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> </p>
 
-![Shekinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&show_icons=true&theme=blue)
+![Shekinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&show_icons=true&theme=black)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shekinahmanyi&theme=dark)](https://git.io/streak-stats)
 
