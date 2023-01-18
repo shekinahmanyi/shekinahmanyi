@@ -11,7 +11,7 @@ I am a passionate Front-End Developer and Tech enthusiast from Cameroon
 - 📫 How to reach me: shekinahmanyi@gmail.com.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi)](https://github.com/shekinahmanyi/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&show_icons=true&theme=cobalt)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shekinahmanyi&theme=dark)](https://git.io/streak-stats)
 
