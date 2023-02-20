@@ -10,11 +10,11 @@ I am a passionate Front-End Developer and Tech enthusiast from Cameroon.
 
 - 👯 I’m looking to collaborate on Open Source Projects.
 
-- 💬 Ask me about HTML,CSS,JS,PHP,REACTJS
+- 💬 Ask me about HTML,CSS,JS,PHP,REACTJS,BOOTSTRAP,MUI
 
 - 😄 Pronouns: Her/She
 
-- ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 
+- ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 and I so love the scent of Dust 
 
 - 📫 How to reach me: shekinahmanyi@gmail.com.
 
