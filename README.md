@@ -14,7 +14,7 @@ I am a passionate Software Developer and Tech enthusiast from Cameroon.
 
 - 😄 Pronouns: Her/She
 
-- ⚡ Fun fact: I Love Smiling always even when I'm really angry😂 and I so love the scent of Dust 
+- ⚡ Fun fact: I Love Smiling always even when I'm really angry😂 and I so love the scent of Dust :)
 
 - 📫 How to reach me: shekinahmanyi@gmail.com
 
