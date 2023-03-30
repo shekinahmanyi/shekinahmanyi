@@ -10,7 +10,7 @@ I am a passionate Software Developer and Tech enthusiast from Cameroon.
 
 - 👯 I’m looking to collaborate on Open Source Projects.
 
-- 💬 Ask me about HTML,CSS,JS,PHP,REACTJS,BOOTSTRAP,MUI
+- 💬 Ask me about my develper's Journey
 
 - 😄 Pronouns: Her/She
 
