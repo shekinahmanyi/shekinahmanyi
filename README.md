@@ -10,11 +10,11 @@ I am a passionate Software Developer and Tech enthusiast from Cameroon.
 
 - 👯 I’m looking to collaborate on Open Source Projects.
 
-- 💬 Ask me about my develper's Journey
+- 💬 Ask me about my Develper's Journey(PS: It's Certainly One you will Love to Hear :)
 
 - 😄 Pronouns: Her/She
 
-- ⚡ Fun fact: I Love Smiling always even when i'm very angry😂 and I so much love the scent of Dust 
+- ⚡ Fun fact: I Love Smiling always even when I'm really angry😂 and I so love the scent of Dust 
 
 - 📫 How to reach me: shekinahmanyi@gmail.com
 
