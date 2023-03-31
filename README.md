@@ -6,7 +6,7 @@ I am a passionate Software Developer and Tech enthusiast from Cameroon.
 
 - 🔭 I’m currently working on my final year project.
 
-- 🌱 I’m currently learning ReactJs and nodeJs to be better at what I do.
+- 🌱 I’m currently learning express and nodeJs to be better at what I do.
 
 - 👯 I’m looking to collaborate on Open Source Projects.
 
