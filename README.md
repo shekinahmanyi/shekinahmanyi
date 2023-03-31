@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am called Shekinah Manyi✨
+I am called Shekinah Manyi and I love the MERN Stack✨
 
 I am a passionate Software Developer and Tech enthusiast from Cameroon.
 
