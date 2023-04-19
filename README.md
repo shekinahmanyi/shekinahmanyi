@@ -10,6 +10,8 @@ I am a passionate Software Developer and Tech enthusiast from Cameroon.
 
 - 👯 I’m looking to collaborate on Open Source Projects.
 
+-👯 I’m looking for remoteJobs/Internships
+
 - 💬 Ask me about my Developer's Journey(PS:It's certainly one you will love to hear :)
 
 - 😄 Pronouns: Her/She
