@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I am called Shekinah Manyi✨ and I so Love the MERN Stack❤️
+I am called Shekinah Manyi✨ and I so Love the MERN Stack❤️💙 & Flutter💙
 
 I am a passionate Software Developer and Tech enthusiast from Cameroon.
 
-- 🔭 I’m currently working on my final year project.
+- 🔭 I’m currently working on a Mental-Health project.
 
-- 🌱 I’m currently learning express and nodeJs to be better at what I do.
+- 🌱 I’m currently learning nodeJs and Flutter to be better at what I do.
 
-- 👯 I’m looking to collaborate on Open Source Projects.
+- 👯 I’m looking to collaborate on Open Source Projects with React and Flutter.
 
 - 💬 Ask me about my Developer's Journey(PS:It's certainly one you will love to hear :)
 
