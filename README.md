@@ -8,7 +8,7 @@ I am called Shekinah Manyi✨ and I am Passionate about building Full Stack Web 
 
 - 👯 I’m looking to collaborate on Open Source Projects with React and Flutter.
 
-- 💬 Ask me about my Developer's Journey(PS:It's certainly one you will love to hear :)
+- 💬 Ask me about my Developer's Journey (PS:It's certainly one you will love to hear :)
 
 - 😄 Pronouns: Her/She
 
