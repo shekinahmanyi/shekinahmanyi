@@ -6,7 +6,7 @@ I am called Shekinah Manyi✨ and I am Passionate about building Full Stack Java
 
 - 🌱 I’m currently learning nextjs and node to be better at what I do.
 
-- 👯 I’m looking to collaborate on Open Source Projects with React and Flutter.
+- 👯 I’m looking to collaborate on Open Source Projects with React.
 
 - 💬 Ask me about my Developer's Journey (PS:It's certainly one you will love to hear :)
 
