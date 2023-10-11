@@ -12,7 +12,7 @@ I am called Shekinah Manyi✨ and I am Passionate about building Full Stack Java
 
 - 😄 Pronouns: Her/She
 
-- ⚡ Fun fact: I Love Smiling always even when I'm really angry😂 and I so love the scent of Dust :)
+- ⚡ Fun fact: I Love Smiling always even when I'm really angry😂 and I so love the scent of Dust + I like to sleep:)
 
 - 📫 How to reach me: shekinahmanyi@gmail.com
 
