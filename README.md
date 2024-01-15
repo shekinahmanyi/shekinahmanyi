@@ -2,11 +2,11 @@
 
 I am called Shekinah Manyi✨ and I am Passionate about building Full Stack JavaScript Applications. I am also a ML enthusiast and passionate about it, looking forward into incoorporating it in the work I do.
 
-- 🔭 I’m currently working on gratefulme...
+- 🔭 I’m currently contributing to open source projects
 
 - 🌱 I’m currently learning nextjs and node to be better at what I do.
 
-- 👯 I’m looking to collaborate on Open Source Projects with React.
+- 👯 I’m looking to collaborate more with other Devs.
 
 - 💬 Ask me about my Developer's Journey (PS:It's certainly one you will love to hear :)
 
