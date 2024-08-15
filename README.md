@@ -3,7 +3,7 @@
 I am called Shekinah Manyi✨ and I'm a passionate Full Stack JavaScript Developer with a keen interest in building dynamic and responsive applications. My enthusiasm for technology extends to the realm of Machine Learning, where I'm constantly exploring ways to integrate intelligent systems into my projects. Looking forward to leveraging my skills to create innovative solutions and continuously expand my knowledge in both web development and machine learning.
 - 🔭 I’m currently contributing to open source projects
 
-- 🌱 I’m currently learning nextjs and node to be better at what I do.
+- 🌱 I’m currently learning nextjs and python.
 
 - 👯 I’m looking to collaborate more with other Devs.
 
