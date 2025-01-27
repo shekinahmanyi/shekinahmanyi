@@ -1,20 +1,25 @@
-### Hi there 👋
+Hi there! 👋 I'm Shekinah Manyi ✨
+🚀 Frontend Engineer | Aspiring Machine Learning Engineer
 
-I am called Shekinah Manyi✨ and I'm a passionate Full Stack JavaScript Developer with a keen interest in building dynamic and responsive applications. My enthusiasm for technology extends to the realm of Machine Learning, where I'm constantly exploring ways to integrate intelligent systems into my projects. Looking forward to leveraging my skills to create innovative solutions and continuously expand my knowledge in both web development and machine learning.
-- 🔭 I’m currently working on some projects
+I'm a passionate Full Stack JavaScript Developer exploring the exciting world of Machine Learning! My goal is to integrate intelligent systems into web applications and solve real-world problems with AI.
 
-- 🌱 I’m currently learning nextjs and python.
+🔹 Currently, I'm learning Python and diving into machine learning to transition into an ML engineering role.
+🔹 I love building dynamic and responsive applications and continuously improving my skills.
 
-- 👯 I’m looking to collaborate more with other Devs.
+💡 What I'm Up To
+🔭 Projects: Working on web-based ML applications to blend my frontend skills with AI.
+🌱 Currently Learning: Python, Machine Learning, and Model Deployment.
+👯 Looking to Collaborate: On ML-related projects, hackathons, and open-source contributions.
+💬 Ask Me About: My journey from Frontend Development → Machine Learning (It’s an exciting transition!).
 
-- 💬 Ask me about my Developer's Journey (PS:It's certainly one you will love to hear :)
+✨ Fun Facts About Me
+😄 I always smile, even when I’m angry.
+🌧️ I love the scent of dust after rain.
+😴 Sleeping is my secret superpower!
 
-- 😄 Pronouns: Her/She
-
-- ⚡ Fun fact: I Love Smiling always even when I'm angry and I so love the scent of Dust + I like to sleep:)
-
-- 📫 How to reach me: shekinahmanyi@gmail.com
-
+📫 Let's Connect!
+📧 Email: shekinahmanyi@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/shekinah-manyi-849a21210/
 # Languages and Tools
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img 
