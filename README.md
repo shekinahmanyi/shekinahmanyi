@@ -6,7 +6,7 @@ I'm a passionate Full Stack JavaScript Developer exploring the exciting world of
 🔹 Currently, I'm learning Python and diving into machine learning to transition into an ML engineering role.
 🔹 I love building dynamic and responsive applications and continuously improving my skills.
 
-💡 What I'm Up To
+##💡 What I'm Up To
 🔭 Projects: Working on web-based ML applications to blend my frontend skills with AI.
 🌱 Currently Learning: Python, Machine Learning, and Model Deployment.
 👯 Looking to Collaborate: On ML-related projects, hackathons, and open-source contributions.
