@@ -30,7 +30,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
 
 ![Shekinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekinahmanyi&show_icons=true&theme=black)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekinahmanyi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/shekinahmanyi)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shekinahmanyi)](https://git.io/streak-stats)
 
 [![@shekinahmanyi's Holopin board](https://holopin.io/api/user/board?user=shekinahmanyi)](https://holopin.io/@shekinahmanyi)
 
