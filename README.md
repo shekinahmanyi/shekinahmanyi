@@ -11,7 +11,7 @@ My goal is to integrate intelligent systems into web applications and solve real
 🔭 Projects: Working on web-based ML applications to blend my frontend skills with AI. <br>
 🌱 Currently Learning: Python, Machine Learning, and Model Deployment. <br>
 👯 Looking to Collaborate: On ML-related projects, hackathons, and open-source contributions. <br>
-💬 Ask Me About: My journey from Frontend Development → Machine Learning (It’s an exciting transition!). <br><br>
+💬 Ask Me About: My journey into tech (It’s an exciting transition!). <br><br>
 
 ✨ **Fun Facts About Me** <br>
 😄 I always smile, even when I’m angry. <br>
