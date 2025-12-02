@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Shekinah Manyi ✨ <br>
+### Hi there! 👋 I'm Shekinah Manyi  <br>
 
 💡 **What I'm Up To** <br>
 🔭 Projects: Working on web-based ML applications to blend my frontend skills with AI. <br>
