@@ -1,11 +1,4 @@
 ### Hi there! 👋 I'm Shekinah Manyi ✨ <br>
-🚀 Frontend Engineer | Aspiring Machine Learning Engineer <br><br>
-
-I'm a passionate Full Stack JavaScript Developer exploring the exciting world of Machine Learning! <br>
-My goal is to integrate intelligent systems into web applications and solve real-world problems with AI. <br><br>
-
-🔹 Currently, I'm learning Python and diving into machine learning to transition into an ML engineering role. <br>
-🔹 I love building dynamic and responsive applications and continuously improving my skills. <br><br>
 
 💡 **What I'm Up To** <br>
 🔭 Projects: Working on web-based ML applications to blend my frontend skills with AI. <br>
@@ -13,9 +6,6 @@ My goal is to integrate intelligent systems into web applications and solve real
 👯 Looking to Collaborate: On ML-related projects, hackathons, and open-source contributions. <br>
 💬 Ask Me About: My journey into tech (It’s an exciting transition!). <br><br>
 
-✨ **Fun Facts About Me** <br>
-😄 I always smile, even when I’m angry. <br>
-🌧️ I love the scent of dust after rain. <br>
 
 
 📫 **Let's Connect!** <br>
