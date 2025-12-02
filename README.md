@@ -16,7 +16,7 @@ My goal is to integrate intelligent systems into web applications and solve real
 ✨ **Fun Facts About Me** <br>
 😄 I always smile, even when I’m angry. <br>
 🌧️ I love the scent of dust after rain. <br>
-😴 Sleeping is my secret superpower! <br><br>
+
 
 📫 **Let's Connect!** <br>
 📧 Email: shekinahmanyi@gmail.com <br>
