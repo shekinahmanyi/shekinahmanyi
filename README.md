@@ -1,9 +1,16 @@
 ### Hi there! 👋 I'm Shekinah Manyi  <br>
 
-💡 **What I'm Up To** <br>
-🔭 Projects: Working on web-based ML applications to blend my frontend skills with AI. <br>
-🌱 Currently Learning: Python, Machine Learning, and Model Deployment. <br>
-👯 Looking to Collaborate: On ML-related projects, hackathons, and open-source contributions. <br>
+I’m a **Software Engineer** focused on building machine learning models, optimization pipelines, and LLM/RAG applications in Python.
+
+- ⚙️ **What I Build:** Deep learning pipelines, retrieval-augmented generation (RAG) systems, and optimization algorithms.
+- 💻 **Core Focus:** Translating machine learning and algorithmic ideas into clean, runnable Python code.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript
+- **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn
+- **LLMs & NLP:** Hugging Face Transformers, LangChain, Retrieval-Augmented Generation (RAG)
+- **Data & Tools:** NumPy, Pandas, Matplotlib, Jupyter.
 
 
 
